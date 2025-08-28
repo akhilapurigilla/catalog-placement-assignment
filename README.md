@@ -1,7 +1,5 @@
 # catalog-placement-assignment
 
-# Catalog Placement Assignment
-
 ### Problem
 We are given a JSON file containing encoded polynomial roots. Each root provides:
 - x → the key in JSON
